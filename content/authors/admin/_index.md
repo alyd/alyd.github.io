@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alyssa Li Dayan 李理飒
+title: Alyssa Li Dayan
 
 # Full name (for SEO)
 first_name: Alyssa Li
@@ -54,8 +54,8 @@ social:
     icon_pack: fas
     link: https://scholar.google.com/citations?user=V42yp08AAAAJ&hl=en&oi=ao
 #  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+#    icon_pack: fab
+#    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/alyssa-li-dayan-6b463177/
@@ -79,4 +79,4 @@ Hi, I am Alyssa Li Dayan (pronounced "A-lee-sa Lee Day-an"); I also go by Li.
 I am a Computer Science Ph.D. student at [Berkeley Artificial Intelligence Research](https://bair.berkeley.edu/) where I am advised by [Stuart Russell](https://people.eecs.berkeley.edu/~russell/). Before that, I was an ML research scientist at [Uber ATG](https://www.uber.com/us/en/atg/research-and-development/perception-and-prediction/). I completed my BS in Math with CS at Massachusetts Institute of Technology where I did research with the [Flavell](https://flavell.mit.edu/), [Cocosci](https://cocosci.mit.edu/) and [MIT-IBM Watson AI](https://mitibmwatsonailab.mit.edu/) labs. 
 My research is supported by the [Hertz Fellowship](https://www.hertzfoundation.org/).
 
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
