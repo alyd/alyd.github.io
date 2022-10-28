@@ -10,7 +10,7 @@ last_name: Dayan
 superuser: true
 
 # Role/position/tagline
-role: Artificial Intellgience PhD Student
+role: Artificial Intelligence PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
