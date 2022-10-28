@@ -80,4 +80,5 @@ I am a Computer Science Ph.D. student at [Berkeley Artificial Intelligence Resea
 
 My research is supported by the [Hertz Fellowship](https://www.hertzfoundation.org/).
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!--  {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+ -->
