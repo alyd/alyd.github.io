@@ -9,7 +9,6 @@ authors:
 - Talya S Kramer
 - Ijeoma Nwabudike
 - Steven W Flavell
-author_notes:
 date: "2021-11-18T00:00:00Z"
 doi: ""
 
