@@ -32,7 +32,7 @@ education:
     - course: PhD in Computer Science
       institution: UC Berkeley
       year: 2025 (expected)
-    - course: BS in Mathematics with CS
+    - course: BS in Math with Computer Science
       institution: Massachusetts Institute of Technology
       year: 2018
 
@@ -76,7 +76,7 @@ highlight_name: true
 
 Hi, I am Alyssa Li Dayan (pronounced "A-lee-sa Lee Day-an"); I also go by Li.
 
-I am a Computer Science Ph.D. student at [Berkeley Artificial Intelligence Research](https://bair.berkeley.edu/) where I am advised by [Stuart Russell](https://people.eecs.berkeley.edu/~russell/). Before that, I was an ML research scientist at [Uber ATG](https://www.uber.com/us/en/atg/research-and-development/perception-and-prediction/). I completed my BS in Math with CS at MIT where I did research with the [Flavell](https://flavell.mit.edu/), [Cocosci](https://cocosci.mit.edu/) and [MIT-IBM Watson AI](https://mitibmwatsonailab.mit.edu/) labs. 
+I am a Computer Science Ph.D. student at [Berkeley Artificial Intelligence Research](https://bair.berkeley.edu/) where I am advised by [Stuart Russell](https://people.eecs.berkeley.edu/~russell/). Before that, I was an ML research scientist at [Uber ATG](https://www.uber.com/us/en/atg/research-and-development/perception-and-prediction/). I completed my BS at MIT where I did research with the [Flavell](https://flavell.mit.edu/), [Cocosci](https://cocosci.mit.edu/) and [MIT-IBM Watson AI](https://mitibmwatsonailab.mit.edu/) labs. 
 
 My research is supported by the [Hertz Fellowship](https://www.hertzfoundation.org/).
 
