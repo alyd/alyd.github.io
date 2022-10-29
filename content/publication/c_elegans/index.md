@@ -2,12 +2,12 @@
 title: "A neural circuit for flexible control of persistent behavioral states"
 authors:
 - Ni Ji
-- Gurrein K Madan
-- Guadalupe I Fabre
+- G K Madan
+- G I Fabre
 - admin
-- Casey M Baker
-- Talya S Kramer
-- Ijeoma Nwabudike
+- C M Baker
+- T S Kramer
+- I Nwabudike
 - Steven W Flavell
 date: "2021-11-18T00:00:00Z"
 doi: ""
