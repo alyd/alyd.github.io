@@ -33,7 +33,8 @@ featured: false
 
 links:
 - name: Medium Post
-   url: https://medium.com/analytics-vidhya/analyzing-sketches-around-the-world-with-sketch-rnn-c6cbe9b5ac80
+  url: [http://example.org](https://medium.com/analytics-vidhya/analyzing-sketches-around-the-world-with-sketch-rnn-c6cbe9b5ac80)
+url: 
 url_pdf: ''
 url_code: ''
 url_dataset: ''
