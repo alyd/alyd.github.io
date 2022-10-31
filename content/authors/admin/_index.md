@@ -22,9 +22,10 @@ bio: ''
 
 # Interests to show in About widget
 interests:
-  - Hierarchical Reinforcement Learning
-  - Continual Learning
-  - Meta Learning
+  - Hierarchical reinforcement learning and skill discovery
+  - Continual and lifelong Learning
+  - Meta learning
+  - Exploration and intrinsic motivation
 
 # Education to show in About widget
 education:
