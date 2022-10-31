@@ -18,7 +18,7 @@ organizations:
     url: https://eecs.berkeley.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: AI PhD Student at UC Berkeley 
+bio: '' 
 
 # Interests to show in About widget
 interests:
