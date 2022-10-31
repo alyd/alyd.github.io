@@ -1,5 +1,5 @@
 ---
-title: 'Multixnet: Multiclass multistage multimodal motion prediction'
+title: 'Multixnet: Multiclass Multistage Multimodal Motion Prediction'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
