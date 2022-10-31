@@ -1,5 +1,5 @@
 ---
-title: "A neural circuit for flexible control of persistent behavioral states"
+title: "A Neural Circuit for Flexible Control of Persistent Behavioral States"
 authors:
 - Ni Ji
 - G K Madan
