@@ -1,5 +1,5 @@
 ---
-title: "Hierarchical Abstraction for Combinatorial Generalization in Object Rearrangementr"
+title: "Hierarchical Abstraction for Combinatorial Generalization in Object Rearrangement"
 authors:
 - Michael Chang
 - admin
