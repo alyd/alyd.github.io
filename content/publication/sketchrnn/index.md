@@ -70,6 +70,7 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 {{% /callout %}}
 
  -->
- ![Country Average Sketches](https://raw.githubusercontent.com/alyd/shaders/master/countryaverages.png)
+ ![Encoder Decoder Flow](https://miro.medium.com/max/4800/0*e_4pp-kS2hA75ckQ.png)
+ ![Country Average Sketches](https://miro.medium.com/max/4800/1*--v6fpJO3r2hg-EvNHDlMg.png)
  Special thanks to the IBM Visual AI lab for mentorship during this project. 
  
