@@ -15,7 +15,7 @@ publishDate: "2019-11-24T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Analytics Vidhya*, results displayed at the *[NeurIPS Creativity Gallery](http://aiartonline.com/)* 2020"
+publication: "*Analytics Vidhya*, results selected for display at the *[AI Art Gallery](http://aiartonline.com/)* at *NeurIPS 2020*"
 publication_short: ""
 
 abstract: "Quick, draw a sandwich! What does it look like? If you were from South Korea, you may have added pickled cucumber, 
