@@ -93,7 +93,11 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://raw.githubusercontent.com/alyd/shaders/master/countryaverages.png" alt="Country Average Sketches" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://miro.medium.com/max/4800/0*e_4pp-kS2hA75ckQ.png" alt="Encoder Decoder Flow" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://miro.medium.com/max/4800/1*--v6fpJO3r2hg-EvNHDlMg.png" alt="Country Average Sketches" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 Special thanks to the IBM Visual AI lab for mentorship during this project.&lt;/p></description></item><item><title>Writing technical content in Markdown</title><link>https://alyd.github.io/post/writing-technical-content/</link><pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate><guid>https://alyd.github.io/post/writing-technical-content/</guid><description>&lt;p>Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p>
 &lt;p>&lt;strong>Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong>&lt;/p>
@@ -186,7 +190,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-321678594" class="chart">&lt;/div>
+&lt;div id="chart-769183542" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -195,7 +199,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-321678594', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-769183542', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();

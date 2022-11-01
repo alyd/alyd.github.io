@@ -14,6 +14,10 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://raw.githubusercontent.com/alyd/shaders/master/countryaverages.png" alt="Country Average Sketches" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://miro.medium.com/max/4800/0*e_4pp-kS2hA75ckQ.png" alt="Encoder Decoder Flow" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://miro.medium.com/max/4800/1*--v6fpJO3r2hg-EvNHDlMg.png" alt="Country Average Sketches" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 Special thanks to the IBM Visual AI lab for mentorship during this project.&lt;/p></description></item></channel></rss>
