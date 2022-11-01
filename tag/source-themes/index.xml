@@ -11,4 +11,9 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;/div>
 &lt;/div>
 -->
-&lt;p>Special thanks to the IBM Visual AI lab for mentorship during this project.&lt;/p></description></item></channel></rss>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://raw.githubusercontent.com/alyd/shaders/master/countryaverages.png" alt="Country Average Sketches" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+Special thanks to the IBM Visual AI lab for mentorship during this project.&lt;/p></description></item></channel></rss>
