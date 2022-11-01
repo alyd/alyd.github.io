@@ -15,7 +15,7 @@ publishDate: "2019-11-24T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Analytics Vidhya*, also displayed at the *NeurIPS Creativity Gallery* 2020"
+publication: "*Analytics Vidhya*, results displayed at the *NeurIPS Creativity Gallery* 2020"
 publication_short: ""
 
 abstract: "Quick, draw a sandwich! What does it look like? If you were from South Korea, you may have added pickled cucumber, 
@@ -70,4 +70,6 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 {{% /callout %}}
 
  -->
+ ![Country Average Sketches](https://raw.githubusercontent.com/alyd/shaders/master/countryaverages.png)
  Special thanks to the IBM Visual AI lab for mentorship during this project. 
+ 
