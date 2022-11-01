@@ -23,7 +23,7 @@ publishDate: '2017-07-11T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *2021 IEEE Intelligent Vehicles Symposium (IV)*
+publication: *2021 IEEE Intelligent Vehicles Symposium (IV)*
 
 abstract: "One of the critical pieces of the self-driving puzzle is understanding the surroundings of a self-driving vehicle (SDV) and predicting how these surroundings will change in the near future. To address this task we propose MultiXNet, an end-to-end approach for detection and motion prediction based directly on lidar sensor data. This approach builds on prior work by handling multiple classes of traffic actors, adding a jointly trained second-stage trajectory refinement step, and producing a multimodal probability distribution over future actor motion that includes both multiple discrete traffic behaviors and calibrated continuous position uncertainties. The method was evaluated on large-scale, real-world data collected by a fleet of SDV s in several cities, with the results indicating that it outperforms existing state-of-the-art approaches."
 
