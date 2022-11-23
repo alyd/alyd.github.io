@@ -20,7 +20,7 @@ publishDate: "2022-10-04T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*DeepRL Workshop* at *NeurIPS 2022*"
+publication: "*Deep RL Workshop* and *Attention Workshop* (**spotlight talk**) at *NeurIPS 2022*"
 publication_short: ""
 
 abstract: "Object rearrangement is a challenge for embodied agents because solving these tasks requires generalizing across a combinatorially large set of underlying entities that take the value of object states. Worse, these entities are often unknown and must be inferred from sensory percepts. We present a hierarchical abstraction approach to uncover these underlying entities and achieve combinatorial generalization from unstructured inputs. By constructing a factorized transition graph over clusters of object representations inferred from pixels, we show how to learn a correspondence between intervening on states of entities in the agent's model and acting on objects in the environment. 
