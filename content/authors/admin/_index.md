@@ -83,3 +83,4 @@ My research is supported by the [Hertz Fellowship](https://www.hertzfoundation.o
 
 <!--  {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
  -->
+ <iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/WdjfRc?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
