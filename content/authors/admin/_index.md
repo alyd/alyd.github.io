@@ -77,10 +77,11 @@ highlight_name: true
 
 Hi, I am Alyssa Li Dayan (pronounced "A-lee-sa Lee Day-an"); I also go by Li.
 
-I am a Computer Science Ph.D. student at [Berkeley Artificial Intelligence Research](https://bair.berkeley.edu/) where I am advised by [Stuart Russell](https://people.eecs.berkeley.edu/~russell/). Before that, I was an Machine Learning (ML) research scientist at [Uber ATG](https://www.uber.com/us/en/atg/research-and-development/perception-and-prediction/). I completed my BS at MIT where I did research with the [Flavell](https://flavell.mit.edu/), [Cocosci](https://cocosci.mit.edu/) and [MIT-IBM Watson AI](https://mitibmwatsonailab.mit.edu/) labs. My broad goal is to use an ML approach to uncover general princples of intelligence, both natural and artificial.
+I am a Computer Science Ph.D. student at [Berkeley Artificial Intelligence Research](https://bair.berkeley.edu/) where I am advised by [Stuart Russell](https://people.eecs.berkeley.edu/~russell/). Before that, I was an Machine Learning (ML) research scientist at [Uber ATG](https://www.uber.com/us/en/atg/research-and-development/perception-and-prediction/). I completed my BS at MIT where I did research with the [Flavell](https://flavell.mit.edu/), [Cocosci](https://cocosci.mit.edu/) and [MIT-IBM Watson AI](https://mitibmwatsonailab.mit.edu/) labs. 
 Outside of work I like to make [art](https://alyda.tumblr.com/) and I'm working on my 中文.
 
 My research is supported by the [Hertz Fellowship](https://www.hertzfoundation.org/).
 
+<!-- My broad goal is to use an ML approach to uncover general princples of intelligence, both natural and artificial.-->
 <!--  {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
  -->
