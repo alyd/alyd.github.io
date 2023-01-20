@@ -21,7 +21,7 @@ organizations:
 bio: '' 
 
 # Interests to show in About widget
-research interests:
+interests:
   - Hierarchical reinforcement learning and skill discovery
   - Continual and lifelong Learning
   - Meta learning
@@ -78,8 +78,7 @@ highlight_name: true
 Hi, I am Alyssa Li Dayan (pronounced "A-lee-sa Lee Day-an"); I also go by Li.
 
 I am a Computer Science Ph.D. student at [Berkeley Artificial Intelligence Research](https://bair.berkeley.edu/) where I am advised by [Stuart Russell](https://people.eecs.berkeley.edu/~russell/). Before that, I was an ML research scientist at [Uber ATG](https://www.uber.com/us/en/atg/research-and-development/perception-and-prediction/). I completed my BS at MIT where I did research with the [Flavell](https://flavell.mit.edu/), [Cocosci](https://cocosci.mit.edu/) and [MIT-IBM Watson AI](https://mitibmwatsonailab.mit.edu/) labs. 
-
-In my spare time I like to make [art](https://alyda.tumblr.com/).
+Outside of my research I try to make time for creating [art](https://alyda.tumblr.com/) and practicing 中文.
 
 My research is supported by the [Hertz Fellowship](https://www.hertzfoundation.org/).
 
