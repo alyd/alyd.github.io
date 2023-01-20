@@ -21,13 +21,11 @@ organizations:
 bio: '' 
 
 # Interests to show in About widget
-interests:
+research interests:
   - Hierarchical reinforcement learning and skill discovery
   - Continual and lifelong Learning
   - Meta learning
   - Exploration and intrinsic motivation
-  - name: "Digital" art
-    url: https://alyda.tumblr.com/
 
 # Education to show in About widget
 education:
