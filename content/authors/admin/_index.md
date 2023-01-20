@@ -26,7 +26,8 @@ interests:
   - Continual and lifelong Learning
   - Meta learning
   - Exploration and intrinsic motivation
-  - ["Digital" art](https://alyda.tumblr.com/)
+  - name: "Digital" art
+    url: https://alyda.tumblr.com/
 
 # Education to show in About widget
 education:
