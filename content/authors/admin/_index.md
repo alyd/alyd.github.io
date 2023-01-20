@@ -60,7 +60,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/alyssa-li-dayan-6b463177/
-  - icon: pen-paintbrush
+  - icon: palette
     icon_pack: fas
     link: https://alyda.tumblr.com/
 
