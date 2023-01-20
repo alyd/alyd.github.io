@@ -79,6 +79,8 @@ Hi, I am Alyssa Li Dayan (pronounced "A-lee-sa Lee Day-an"); I also go by Li.
 
 I am a Computer Science Ph.D. student at [Berkeley Artificial Intelligence Research](https://bair.berkeley.edu/) where I am advised by [Stuart Russell](https://people.eecs.berkeley.edu/~russell/). Before that, I was an ML research scientist at [Uber ATG](https://www.uber.com/us/en/atg/research-and-development/perception-and-prediction/). I completed my BS at MIT where I did research with the [Flavell](https://flavell.mit.edu/), [Cocosci](https://cocosci.mit.edu/) and [MIT-IBM Watson AI](https://mitibmwatsonailab.mit.edu/) labs. 
 
+In my spare time I like to make [art](https://alyda.tumblr.com/).
+
 My research is supported by the [Hertz Fellowship](https://www.hertzfoundation.org/).
 
 <!--  {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
