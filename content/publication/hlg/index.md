@@ -34,7 +34,7 @@ tags:
 featured: false
 
 links:
-url_pdf: https://openreview.net/references/pdf?id=ZltyaL_7hE
+url_pdf: https://openreview.net/pdf?id=fGG6vHp3W9W
 url_code: ''
 url_dataset: ''
 url_poster: ''
