@@ -34,7 +34,7 @@ tags:
 featured: false
 
 links:
-url_pdf: https://openreview.net/pdf?id=fGG6vHp3W9W
+url_pdf: https://arxiv.org/pdf/2303.11373.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -65,7 +65,9 @@ projects: []
 slides: ""
 ---
 
-<!-- {{% callout note %}}
+<!-- 
+ https://openreview.net/pdf?id=fGG6vHp3W9W
+{{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
