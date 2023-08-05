@@ -10,6 +10,7 @@ weight: 130
 
 title: Contact
 subtitle:
+text: testing
 
 content:
   # Automatically link email and phone or display as text?
