@@ -9,8 +9,7 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle:
-text: testing
+subtitle: testing1345
 
 content:
   # Automatically link email and phone or display as text?
@@ -21,7 +20,7 @@ content:
   # phone: 888 888 88 88
   # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   # appointment_url: 'https://calendly.com'
-  text: testing123
+
 
 design:
   columns: '2'
