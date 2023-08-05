@@ -13,8 +13,8 @@ header:
   image: ""
 ---
 
-If you're an undergrad looking to do research with me, please email me with the following:
-- why you'd specifically like to work with me
-- at least one project idea that you'd like to work on
-- your relevant knowledge and skills
-- how much time you could commit to doing research- in terms of hours per week, and for how many months
+If you're an undergrad looking to do research with me, I am much more likely to respond if you email me with the following:
+- why you'd like to work with me (be as specific as possible)
+- at least one project idea that you'd be excited to work on
+- your relevant knowledge and skills (resume, transcript)
+- how much time you could spend on research- in terms of hours per week, and for how many months
