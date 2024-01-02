@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alyssa Li Dayan
+title: Aly Lidayan
 
 # Full name (for SEO)
-first_name: Alyssa Li
-last_name: Dayan
+first_name: Aly
+last_name: Lidayan
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,8 +14,8 @@ role: Artificial Intelligence PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: UC Berkeley
-    url: https://eecs.berkeley.edu/
+  - name: Berkeley Artificial Intelligence Research
+    url: https://bair.berkeley.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: '' 
@@ -78,9 +78,9 @@ email: ''
 highlight_name: true
 ---
 
-Hi, I am Alyssa Li Dayan (pronounced "A-lee-sa Lee Day-an"); I also go by Li.
+Hi, I am Aly Lidayan; I also go by Li.
 
-I am a Computer Science Ph.D. student at [Berkeley Artificial Intelligence Research](https://bair.berkeley.edu/) where I am advised by [Stuart Russell](https://people.eecs.berkeley.edu/~russell/). Before that, I was an Machine Learning (ML) research scientist at [Uber ATG](https://www.uber.com/us/en/atg/research-and-development/perception-and-prediction/). I completed my BS at MIT where I did research with the [Flavell](https://flavell.mit.edu/), [Cocosci](https://cocosci.mit.edu/) and [MIT-IBM Watson AI](https://mitibmwatsonailab.mit.edu/) labs. 
+I am a Computer Science Ph.D. student at [Berkeley Artificial Intelligence Research](https://bair.berkeley.edu/) where I am advised by [Stuart Russell](https://people.eecs.berkeley.edu/~russell/). Before that, I was a Machine Learning research scientist at [Uber ATG](https://www.uber.com/us/en/atg/research-and-development/perception-and-prediction/). I completed my BS at MIT where I did research with the [Flavell](https://flavell.mit.edu/), [Cocosci](https://cocosci.mit.edu/) and [MIT-IBM Watson AI](https://mitibmwatsonailab.mit.edu/) labs. 
 
 My research is supported by the [Hertz Fellowship](https://www.hertzfoundation.org/).
 
