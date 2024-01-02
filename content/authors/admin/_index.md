@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Aly Lidayan
+title: Aly "Li" Lidayan
 
 # Full name (for SEO)
 first_name: Aly
@@ -77,8 +77,6 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Hi, I am Aly Lidayan; I also go by Li.
 
 I am a Computer Science Ph.D. student at [Berkeley Artificial Intelligence Research](https://bair.berkeley.edu/) where I am advised by [Stuart Russell](https://people.eecs.berkeley.edu/~russell/). Before that, I was a Machine Learning research scientist at [Uber ATG](https://www.uber.com/us/en/atg/research-and-development/perception-and-prediction/). I completed my BS at MIT where I did research with the [Flavell](https://flavell.mit.edu/), [Cocosci](https://cocosci.mit.edu/) and [MIT-IBM Watson AI](https://mitibmwatsonailab.mit.edu/) labs. 
 
