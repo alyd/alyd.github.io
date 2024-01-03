@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Aly "Li" Lidayan
+title: Aly Lidayan
 
 # Full name (for SEO)
 first_name: Aly
