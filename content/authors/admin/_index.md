@@ -59,7 +59,7 @@ social:
 #    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/alyssa-li-dayan-6b463177/
+    link: https://www.linkedin.com/in/aly-lidayan-6b463177/
  # - icon: palette
  #   icon_pack: fas
  #   link: https://alyda.tumblr.com/
