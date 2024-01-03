@@ -60,9 +60,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/alyssa-li-dayan-6b463177/
-  - icon: palette
-    icon_pack: fas
-    link: https://alyda.tumblr.com/
+ # - icon: palette
+ #   icon_pack: fas
+ #   link: https://alyda.tumblr.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
