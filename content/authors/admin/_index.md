@@ -47,7 +47,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/a_li_d
+    link: https://twitter.com/a_lidayan
     label: Follow me on Twitter
     display:
       header: true
