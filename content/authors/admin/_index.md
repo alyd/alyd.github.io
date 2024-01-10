@@ -32,7 +32,7 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: UC Berkeley
-      year: 2025 (expected)
+      year: 2026 (expected)
     - course: BS in Math with Computer Science
       institution: Massachusetts Institute of Technology
       year: 2018
