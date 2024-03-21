@@ -21,7 +21,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Intrinsically Motivated Open-Ended Learning Workshop (Spotlight), NeurIPS 2023*"
-publication_short: "IMOL"
+publication_short: ""
 
 abstract: "What drives exploration? Understanding intrinsic motivation is a long-standing question in both cognitive science and artificial intelligence (AI); numerous exploration objectives have been proposed and tested in human experiments and used to train reinforcement learning (RL) agents. However, experiments in the former are often in simplistic environments that do not capture the complexity of real world exploration. On the other hand, experiments in the latter use more complex environments, yet the trained RL agents fail to come close to human exploration efficiency. To study this gap, we propose a framework for directly comparing human and agent exploration in an open-ended environment, Crafter. We study how well commonly-proposed information theoretic intrinsic objectives relate to actual human and agent behaviors, finding that human and intrinsically-motivated RL agent exploration success consistently show positive correlation with Entropy and Empowerment. However, only human exploration shows significant correlation with Information Gain. In a preliminary analysis of verbalizations, we find that children's verbalizations of goals show a strong positive correlation with empowerment, suggesting that goal-setting may be an important aspect of efficient exploration."
 
