@@ -3,7 +3,7 @@ title: "What can AI Learn from Human Exploration? Intrinsically-Motivated Humans
 authors:
 - Yuqing Du*
 - Eliza Kosoy*
-- admin*
+- Aly Lidayan*
 - Maria Rufova
 - Pieter Abbeel
 - Alison Gopnik
