@@ -19,7 +19,7 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'AI PhD Student at UC Berkeley'
-    twitter: 'a_li_d'
+    twitter: 'a_lidayan'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Alyssa Li Dayan'
+    notice: '© {year} {admin}'
     license:
       enable: false
       allow_derivatives: false
