@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} {admin}'
+    notice: '© {year} Aly Lidayan'
     license:
       enable: false
       allow_derivatives: false
