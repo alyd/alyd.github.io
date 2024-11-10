@@ -14,7 +14,7 @@ header:
 ---
 
 If you're an undergrad looking to do research with me, I am much more likely to respond if you email me with the following:
-- why you'd like to work with me (be as specific as possible)
-- at least one project idea that you'd be excited to work on
+- why you'd like to work with me 
+- a project idea that you'd be excited to work on
 - your relevant knowledge and skills (resume, transcript)
-- how much time you could spend on research- in terms of hours per week, and for how many months
+- how much time you could spend on research- hours per week, for how many months
