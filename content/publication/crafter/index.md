@@ -33,7 +33,7 @@ tags:
 featured: false
 
 links:
-url_pdf: https://openreview.net/pdf?id=aFEZdGL3gn
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
