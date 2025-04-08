@@ -1,5 +1,5 @@
 ---
-title: "What can AI Learn from Human Exploration? Intrinsically-Motivated Humans and Agents in Open-World Exploration"
+title: "Intrinsically-Motivated Humans and Agents in Open-World Exploration"
 authors:
 - Yuqing Du*
 - Eliza Kosoy*
@@ -23,17 +23,17 @@ publication_types: ["1"]
 publication: "*Intrinsically Motivated Open-Ended Learning Workshop (Spotlight), NeurIPS 2023*"
 publication_short: ""
 
-abstract: "What drives exploration? Understanding intrinsic motivation is a long-standing question in both cognitive science and artificial intelligence (AI); numerous exploration objectives have been proposed and tested in human experiments and used to train reinforcement learning (RL) agents. However, experiments in the former are often in simplistic environments that do not capture the complexity of real world exploration. On the other hand, experiments in the latter use more complex environments, yet the trained RL agents fail to come close to human exploration efficiency. To study this gap, we propose a framework for directly comparing human and agent exploration in an open-ended environment, Crafter. We study how well commonly-proposed information theoretic intrinsic objectives relate to actual human and agent behaviors, finding that human and intrinsically-motivated RL agent exploration success consistently show positive correlation with Entropy and Empowerment. In a preliminary analysis of private speech during gameplay, we find that children's verbalizations of goals show a strong positive correlation with performance, suggesting that goal-setting may be an important aspect of efficient exploration."
+abstract: "What drives exploration? Understanding intrinsic motivation is a long-standing challenge in both cognitive science and artificial intelligence; numerous objectives have been proposed and used to train agents, yet there remains a gap between human and agent exploration. We directly compare adults, children, and AI agents in a complex open-ended environment, Crafter, and study how common intrinsic objectives: Entropy, Information Gain, and Empowerment, relate to their behavior. We find that only Entropy and Empowerment are consistently positively correlated with human exploration progress, indicating that these objectives may better inform intrinsic reward design for agents. Furthermore, across agents and humans we observe that Entropy initially increases rapidly, then plateaus, while Empowerment increases continuously, suggesting that state diversity may provide more signal in early exploration, while advanced exploration should prioritize control. Finally, we find preliminary evidence that private speech utterances, and particularly goal verbalizations, may aid exploration in children."
 
 # Summary. An optional shortened abstract.
-summary: "We demonstrate how to generalize over a combinatorially large space of rearrangement tasks from only pixel observations by constructing from video demonstrations a factorized transition graph over entity state transitions that we use for control."
+summary: ""
 
 tags:
 - Source Themes
 featured: false
 
 links:
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/2503.23631'
 url_code: ''
 url_dataset: ''
 url_poster: ''
