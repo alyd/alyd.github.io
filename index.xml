@@ -15,7 +15,7 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
 &lt;/div>
 &lt;/div>
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>What can AI Learn from Human Exploration? Intrinsically-Motivated Humans and Agents in Open-World Exploration</title><link>https://alyd.github.io/publication/crafter/</link><pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate><guid>https://alyd.github.io/publication/crafter/</guid><description>&lt;!--
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Intrinsically-Motivated Humans and Agents in Open-World Exploration</title><link>https://alyd.github.io/publication/crafter/</link><pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate><guid>https://alyd.github.io/publication/crafter/</guid><description>&lt;!--
 https://openreview.net/pdf?id=fGG6vHp3W9W
 &lt;div class="alert alert-note">
 &lt;div>
@@ -204,7 +204,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-961743258" class="chart">&lt;/div>
+&lt;div id="chart-546137289" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -213,7 +213,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-961743258', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-546137289', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
