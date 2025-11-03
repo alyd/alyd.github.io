@@ -6,9 +6,9 @@ title: 'Multixnet: Multiclass Multistage Multimodal Motion Prediction'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Nemanja Djuric
-  - Many Authors
+  - ...
   - admin
-  - Many More Authors
+  - ...
 
 date: '2021-07-11T00:00:00Z'
 doi: ''
