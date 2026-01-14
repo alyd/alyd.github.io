@@ -13,8 +13,4 @@ header:
   image: ""
 ---
 
-If you're an undergrad looking to do research with me, I am much more likely to respond if you email me with the following:
-- why you'd like to work with me 
-- a project idea that you'd be excited to work on
-- your relevant knowledge and skills (resume, transcript)
-- how much time you could spend on research- hours per week, for how many months
+I am not currently looking to take on any undergrads to join my current research projects. If you have your own project and are looking for advising, feel free to pitch it to me over email and I'll get back to you if I think it's a good fit. 
