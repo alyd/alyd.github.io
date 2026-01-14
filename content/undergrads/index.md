@@ -13,4 +13,4 @@ header:
   image: ""
 ---
 
-I am not currently looking to take on any undergrads to join my current research projects. If you have your own project and are looking for advising, feel free to pitch it to me over email and I'll get back to you if I think it's a good fit. 
+I am not currently looking to take on any undergrads to join my current research projects. If you have your own project and are looking for advising, feel free to pitch it to me and I'll get back to you if I think it's a good fit. 
